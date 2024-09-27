@@ -1,9 +1,8 @@
 # 2024-fall-data
+* 강사: 서상범 (sbseo@sbseo.link)
 
 ## [중요공지] 
 없습니다.
-
-* 강사: 서상범 (sbseo@sbseo.link)
 
 
 ## Course Description
